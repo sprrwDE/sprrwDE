@@ -1,12 +1,13 @@
-👋 Hi, I’m @sprrwDE, a freelance designer and developer from Germany with a background in digital marketing.
-👀 I’m interested in web development, especially web animations.
-🌱 I’m currently learning Angular and TypeScript, and I’m also exploring backend technologies.
-💞️ I’m looking to collaborate on exciting projects with high learning potential.
-📫 You can reach me via email at info@sparrowmedia.de.
-😄 Hobbies: Playing guitar and chess, doing sports and outdoor-stuff, and sometimes also gaming.
-⚡ Fun fact: I can juggle! My spirit animal is an otter because otter-life means keeping your head slightly over the water
+Hi, I’m @sprrwDE, a freelance designer and developer from Germany with a background in digital marketing. I’m super passionate about web development, especially web animations – that’s where I truly come alive! Right now, I’m diving into Angular and TypeScript, while also exploring the world of backend technologies.
 
-<!---
-sprrwDE/sprrwDE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m always on the lookout for exciting projects that are not just fun but also offer a steep learning curve. If you’ve got something cool in the works, let me know! The best way to reach me is via email at info@sparrowmedia.de.
+
+In my free time, I love playing guitar, challenging someone to a game of chess, staying active with sports, or enjoying outdoor adventures. Occasionally, I’ll also indulge in a gaming session. Fun fact: I can juggle! And my spirit animal? Definitely an otter, because otters always manage to keep their heads above water – just like me. 😉
+
+Let’s connect if you’re up for collaborating on something awesome!
+
+
+
+
+
+
