@@ -1,4 +1,4 @@
-Hi, I’m @sprrwDE, a freelance designer and developer from Germany with a background in digital marketing. I’m super passionate about web development, especially web animations – that’s where I truly come alive! Right now, I’m diving into Angular and TypeScript, while also exploring the world of backend technologies.
+Hi, I’m Kai, a freelance designer and developer from Germany with a background in digital marketing. I’m super passionate about web development, especially web animations – that’s where I truly come alive! Right now, I’m diving into Angular and TypeScript, while also exploring the world of backend technologies.
 
 I’m always on the lookout for exciting projects that are not just fun but also offer a steep learning curve. If you’ve got something cool in the works, let me know! The best way to reach me is via email at info@sparrowmedia.de.
 
